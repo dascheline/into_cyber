@@ -5,10 +5,10 @@
 # Username array
 usernames=("atanaka" "alee" "rpatel")
 
-# create the users by looping through the array
+# delete the users by looping through the array
 for username in "${usernames[@]}"
 do
     sudo userdel -r -m "$username"
 done
 
-echo "Successfully created users"
+echo "Successfully deleted users"
