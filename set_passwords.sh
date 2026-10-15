@@ -1,6 +1,6 @@
 #!/bin/bash set_passwords.sh    
 
-# This script creates multiple users based on an array of usernames.
+# This script sets passwords of users based on an array of usernames.
 #
 # Username array
 usernames=("atanaka" "alee" "rpatel")

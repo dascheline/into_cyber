@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash create_users.sh
 
 # This script creates multiple users based on an array of usernames.
 #
